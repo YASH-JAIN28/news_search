@@ -22,4 +22,4 @@ const NewsBoard = ({category}) => {
   )
 }
 
-export default NewsBoard
+export default NewsBoard;
