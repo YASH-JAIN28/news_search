@@ -12,6 +12,8 @@ const NewsBoard = ({category}) => {
     fetch(url)
     .then(response => response.json())
     .then(data => setarticles(data.articles));
+    console.log("abc",import.meta.env.VITE_API_KEY);
+    
 
   },[category])
   return (
