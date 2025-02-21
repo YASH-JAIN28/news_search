@@ -59,8 +59,6 @@ const Navbar = ({ setCategory }) => {
                 Entertainment
               </a>
             </li>
-            <li></li>
-            <ul> <ul><ul><ul><ul><ul><ul></ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul><ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul>
 
             <li className="nav-item">
               <a
